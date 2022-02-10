@@ -7,10 +7,3 @@ eureka:
   instance:
     hostname: localhost
     
-
-   rabbitmq:
-    host: rattlesnake.rmq.cloudamqp.com
-    port: 5672
-    username: oaetctqn
-    virtual-host: oaetctqn
-    password: kupW2TEwoZ_tp_yPpXfapR_DAnuQQbIU
